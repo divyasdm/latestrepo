@@ -2,5 +2,5 @@ package testproject;
 
 public class Test {
 	int n;
-void m() {}
+void p() {}
 }
