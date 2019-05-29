@@ -2,5 +2,5 @@ package testproject;
 
 public class Test {
 	int n;
-void p() {}
+void p() {System.out.println("Test.p()");}
 }
